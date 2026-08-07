@@ -1,5 +1,5 @@
 {
-  "show_more_apps" : true,
+  "show_more_apps" : false,
   "apps" : [
     {
       "name":"Arrows – Puzzle Escape",
