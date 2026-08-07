@@ -1,10 +1,10 @@
 {
-  "show_more_apps" : false,
+  "show_more_apps" : true,
   "apps" : [
     {
       "name":"Arrows – Puzzle Escape",
       "package" : "com.infinity.arrowspuzzleescape",
-      "is_visible" : true,
+      "is_visible" : false,
       "icon" :"https://vrundavan064.github.io/app_icons/arrow_escape.png",
       "banner" :"https://vrundavan064.github.io/app_banners/arrow_escape.png",
       "category" :"Puzzle"
