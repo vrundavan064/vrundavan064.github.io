@@ -15,8 +15,8 @@
       "name":"Laser Reflection Puzzle",
       "package" : "com.infinity.laserreflectionpuzzle",
       "is_visible" : true,
-      "icon" :"https://vrundavan064.github.io/app_icons/arrow_escape.png",
-      "banner" :"https://vrundavan064.github.io/app_banners/arrow_escape.png",
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
       "category" :"Puzzle"
     }
   ]
