@@ -1,6 +1,8 @@
 {
   "show_more_apps" : true,
-  "apps" : [
+  "title" : "More Games"
+  "apps" : [],
+  "games" : [
     {
       "name":"Arrows – Puzzle Escape",
       "package" : "com.infinity.arrowspuzzleescape",
