@@ -1,6 +1,7 @@
 {
-  "show_more_apps" : false,
-  "title" : "More Games"
+  "show_more_apps" : true,
+  "title" : "More Games",
+  "raw_count" : 2,
   "apps" : [
     {
       "name":"Arrows – Puzzle Escape",
@@ -8,6 +9,38 @@
       "is_visible" : true,
       "icon" :"https://vrundavan064.github.io/app_icons/arrow_escape.png",
       "banner" :"https://vrundavan064.github.io/app_banners/arrow_escape.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
       "category" :"Puzzle"
     },
      {
@@ -58,6 +91,38 @@
       "is_visible" : true,
       "icon" :"https://vrundavan064.github.io/app_icons/arrow_escape.png",
       "banner" :"https://vrundavan064.github.io/app_banners/arrow_escape.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
+      "category" :"Puzzle"
+    },
+     {
+      "name":"Laser Reflection Puzzle",
+      "package" : "com.infinity.laserreflectionpuzzle",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/laser.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/laser.png",
       "category" :"Puzzle"
     },
      {
