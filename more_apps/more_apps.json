@@ -12,6 +12,14 @@
       "banner" :"https://vrundavan064.github.io/app_banners/arrow_escape.png",
       "category" :"Puzzle"
     },
+    {
+      "name":"LoopFlow: Energy Logic Puzzle",
+      "package" : "com.loopflow.energy.puzzle.game",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/loopflow.png",
+      "banner" :"https://vrundavan064.github.io/app_banners/loopflow.jpg",
+      "category" :"Puzzle"
+    },
      {
       "name":"Laser Reflection Puzzle",
       "package" : "com.infinity.laserreflectionpuzzle",
