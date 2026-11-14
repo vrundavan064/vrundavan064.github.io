@@ -5,6 +5,14 @@
   "apps" : [],
   "games" : [
     {
+      "name":"Card Shuffle Sort: Puzzle",
+      "package" : "com.infinity.card.shuffle.sort",
+      "is_visible" : true,
+      "icon" :"https://vrundavan064.github.io/app_icons/cardshuffle.jpg",
+      "banner" :"https://vrundavan064.github.io/app_banners/cardshuffle.png",
+      "category" :"Puzzle"
+    },
+    {
       "name":"Arrows – Puzzle Escape",
       "package" : "com.infinity.arrowspuzzleescape",
       "is_visible" : true,
