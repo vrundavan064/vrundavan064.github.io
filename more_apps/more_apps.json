@@ -5,7 +5,7 @@
   "apps" : [],
   "games" : [
     {
-      "name":"Card Shuffle Sort: Puzzle",
+      "name":"Card Shuffle Sort",
       "package" : "com.infinity.card.shuffle.sort",
       "is_visible" : true,
       "icon" :"https://vrundavan064.github.io/app_icons/cardshuffle.jpg",
